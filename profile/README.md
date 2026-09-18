@@ -10,13 +10,17 @@ with colors, typography, spacing, components, cultural context, and CSS techniqu
 [Documentation](https://designbycurio.com/docs) ·
 [中文](https://designbycurio.com/zh/)
 
+## Recently added designs
+
 <table>
 <tr>
-<td align="center" width="33%"><a href="https://designbycurio.com/bauhaus-weimar"><img src="https://designbycurio.com/samples/bauhaus-weimar.png" alt="Bauhaus Weimar design preview" width="100%"/><br/><strong>Bauhaus</strong></a></td>
-<td align="center" width="33%"><a href="https://designbycurio.com/stripe-2024"><img src="https://designbycurio.com/samples/stripe-2024.png" alt="Stripe 2024 design preview" width="100%"/><br/><strong>Stripe</strong></a></td>
-<td align="center" width="33%"><a href="https://designbycurio.com/edo-ukiyo-e-hokusai"><img src="https://designbycurio.com/samples/edo-ukiyo-e-hokusai.png" alt="Hokusai Ukiyo-e design preview" width="100%"/><br/><strong>Hokusai Ukiyo-e</strong></a></td>
+<td align="center" width="33%"><a href="https://designbycurio.com/avatar-pandora-2009"><img src="https://designbycurio.com/samples/avatar-pandora-2009.png" alt="Avatar · Pandora design preview" width="100%"/><br/><strong>Avatar · Pandora</strong></a></td>
+<td align="center" width="33%"><a href="https://designbycurio.com/bridgerton-regency-2020"><img src="https://designbycurio.com/samples/bridgerton-regency-2020.png" alt="Bridgerton · Regency design preview" width="100%"/><br/><strong>Bridgerton · Regency</strong></a></td>
+<td align="center" width="33%"><a href="https://designbycurio.com/nasa-emu-spacesuit"><img src="https://designbycurio.com/samples/nasa-emu-spacesuit.png" alt="NASA · EMU Spacesuit design preview" width="100%"/><br/><strong>NASA · EMU Spacesuit</strong></a></td>
 </tr>
 </table>
+
+Three styles from the September 13, 2026 additions. [Explore more →](https://designbycurio.com)
 
 ## Bring Curio to your AI
 
