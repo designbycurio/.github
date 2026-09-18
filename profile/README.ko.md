@@ -14,23 +14,23 @@ Curio는 디자인 사조, 브랜드, 문화적 전통을——바우하우스, 
 
 <table>
 <tr>
-<td align="center" width="33%"><a href="https://designbycurio.com/ko/bauhaus-weimar"><img src="https://designbycurio.com/samples-thumb/bauhaus-weimar.webp" alt="Bauhaus Weimar 디자인 미리보기" width="100%"/><br/><strong>Bauhaus Weimar</strong></a></td>
-<td align="center" width="33%"><a href="https://designbycurio.com/ko/stripe-2024"><img src="https://designbycurio.com/samples-thumb/stripe-2024.webp" alt="Stripe 2024 디자인 미리보기" width="100%"/><br/><strong>Stripe 2024</strong></a></td>
-<td align="center" width="33%"><a href="https://designbycurio.com/ko/edo-ukiyo-e-hokusai"><img src="https://designbycurio.com/samples-thumb/edo-ukiyo-e-hokusai.webp" alt="Edo Ukiyo-e (Hokusai) 디자인 미리보기" width="100%"/><br/><strong>Edo Ukiyo-e (Hokusai)</strong></a></td>
+<td align="center" width="33%"><a href="https://designbycurio.com/ko/ukrainian-pysanka-wax-egg"><img src="https://designbycurio.com/samples-thumb/ukrainian-pysanka-wax-egg.webp" alt="Ukrainian Pysanka Wax-Resist Egg 디자인 미리보기" width="100%"/><br/><strong>Ukrainian Pysanka Wax-Resist Egg</strong></a></td>
+<td align="center" width="33%"><a href="https://designbycurio.com/ko/breaking-bad-2008"><img src="https://designbycurio.com/samples-thumb/breaking-bad-2008.webp" alt="Breaking Bad (2008) 디자인 미리보기" width="100%"/><br/><strong>Breaking Bad (2008)</strong></a></td>
+<td align="center" width="33%"><a href="https://designbycurio.com/ko/oslo-opera-house-snohetta"><img src="https://designbycurio.com/samples-thumb/oslo-opera-house-snohetta.webp" alt="Oslo Opera House Snøhetta 디자인 미리보기" width="100%"/><br/><strong>Oslo Opera House Snøhetta</strong></a></td>
 </tr>
 <tr>
-<td align="center" width="33%"><a href="https://designbycurio.com/ko/memphis-sottsass-1981"><img src="https://designbycurio.com/samples-thumb/memphis-sottsass-1981.webp" alt="Memphis (Sottsass 1981) 디자인 미리보기" width="100%"/><br/><strong>Memphis (Sottsass 1981)</strong></a></td>
-<td align="center" width="33%"><a href="https://designbycurio.com/ko/art-deco-jazz-age"><img src="https://designbycurio.com/samples-thumb/art-deco-jazz-age.webp" alt="Art Deco Jazz Age 디자인 미리보기" width="100%"/><br/><strong>Art Deco Jazz Age</strong></a></td>
-<td align="center" width="33%"><a href="https://designbycurio.com/ko/synthwave-outrun-1984"><img src="https://designbycurio.com/samples-thumb/synthwave-outrun-1984.webp" alt="Synthwave Outrun 1984 디자인 미리보기" width="100%"/><br/><strong>Synthwave Outrun 1984</strong></a></td>
+<td align="center" width="33%"><a href="https://designbycurio.com/ko/sepik-yam-mask-abelam"><img src="https://designbycurio.com/samples-thumb/sepik-yam-mask-abelam.webp" alt="Sepik Yam Mask Abelam 디자인 미리보기" width="100%"/><br/><strong>Sepik Yam Mask Abelam</strong></a></td>
+<td align="center" width="33%"><a href="https://designbycurio.com/ko/tatar-leather-mosaic-boot"><img src="https://designbycurio.com/samples-thumb/tatar-leather-mosaic-boot.webp" alt="Tatar Leather Mosaic Ichigi 디자인 미리보기" width="100%"/><br/><strong>Tatar Leather Mosaic Ichigi</strong></a></td>
+<td align="center" width="33%"><a href="https://designbycurio.com/ko/tech-noir-1984"><img src="https://designbycurio.com/samples-thumb/tech-noir-1984.webp" alt="Tech-Noir 디자인 미리보기" width="100%"/><br/><strong>Tech-Noir</strong></a></td>
 </tr>
 <tr>
-<td align="center" width="33%"><a href="https://designbycurio.com/ko/de-stijl-mondrian"><img src="https://designbycurio.com/samples-thumb/de-stijl-mondrian.webp" alt="De Stijl 디자인 미리보기" width="100%"/><br/><strong>De Stijl</strong></a></td>
-<td align="center" width="33%"><a href="https://designbycurio.com/ko/persian-isfahan-carpet-medallion"><img src="https://designbycurio.com/samples-thumb/persian-isfahan-carpet-medallion.webp" alt="Persian Isfahan Carpet 디자인 미리보기" width="100%"/><br/><strong>Persian Isfahan Carpet</strong></a></td>
-<td align="center" width="33%"><a href="https://designbycurio.com/ko/linear-2024"><img src="https://designbycurio.com/samples-thumb/linear-2024.webp" alt="Linear 2024 디자인 미리보기" width="100%"/><br/><strong>Linear 2024</strong></a></td>
+<td align="center" width="33%"><a href="https://designbycurio.com/ko/lego-classic"><img src="https://designbycurio.com/samples-thumb/lego-classic.webp" alt="LEGO Classic 디자인 미리보기" width="100%"/><br/><strong>LEGO Classic</strong></a></td>
+<td align="center" width="33%"><a href="https://designbycurio.com/ko/muji-japan"><img src="https://designbycurio.com/samples-thumb/muji-japan.webp" alt="MUJI 디자인 미리보기" width="100%"/><br/><strong>MUJI</strong></a></td>
+<td align="center" width="33%"><a href="https://designbycurio.com/ko/fifties-diner-aqua-chrome"><img src="https://designbycurio.com/samples-thumb/fifties-diner-aqua-chrome.webp" alt="1950s Diner Aqua 디자인 미리보기" width="100%"/><br/><strong>1950s Diner Aqua</strong></a></td>
 </tr>
 </table>
 
-아홉 가지 모두 무료입니다. 미리보기를 클릭하면 전체 디자인 시스템이 열립니다. **[전체 라이브러리 보기 →](https://designbycurio.com/ko/gallery)**
+미리보기를 클릭하면 전체 디자인 시스템이 열립니다. **[전체 라이브러리 보기 →](https://designbycurio.com/ko/gallery)**
 
 ## 디자인 시스템에 담긴 것
 
