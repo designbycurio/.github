@@ -40,7 +40,7 @@ Every style ships as a `DESIGN.md` — one file your agent can read end to end:
 - **Components** — how buttons, cards, navigation, forms, and data displays look in this style.
 - **Origin & rules** — where the style comes from, what it insists on, and what it never does.
 - **CSS techniques** — the tricks that make it feel right: grain, glass, gradients, grids.
-- **Six live examples** — an article, a dashboard, a pricing page, and a three-slide deck, so you can see the style applied before you commit.
+- **Six scene previews** — on each style's page: an article, a dashboard, a pricing page and three slides, free to look at before you spend a credit.
 
 The [Style Academy](https://designbycurio.com/learn) has a plain-language guide for every style if you want the story behind it first.
 
@@ -48,8 +48,8 @@ The [Style Academy](https://designbycurio.com/learn) has a plain-language guide 
 
 | | How it works | Best for |
 | --- | --- | --- |
-| **1 · Copy a link** | Open any style, click *Hand off to My AI*, paste the link into your chat. No install; the link carries the full spec for 15 minutes. | Any AI that can open a link. The fastest path. |
-| **2 · Connect over MCP** | Add `https://mcp.designbycurio.com/mcp` to your client and sign in. Your agent can search, browse, and fetch specs from the whole library. | Claude, Cursor, Codex, ChatGPT, Gemini CLI, VS Code, Kimi, and any MCP client. |
+| **1 · Copy a link** | Open any style, unlock it, click *Hand off to My AI* and paste the link into your chat. No install; the link carries the full spec for 15 minutes. | Any AI that can open a link. The fastest path. |
+| **2 · Connect over MCP** | Add `https://mcp.designbycurio.com/mcp` to your client and sign in. Your agent can search and browse the whole library and fetch the specs you've unlocked — it asks before spending a credit. | Claude, Cursor, Codex, ChatGPT, Gemini CLI, VS Code, Kimi, and any MCP client. |
 | **3 · Install the skill** | Clone the skill into your agent. 105 free design systems are bundled and work offline. | Claude Code and agents that read skill folders. |
 
 Step-by-step instructions for each client are in the **[docs](https://designbycurio.com/docs)**.
@@ -67,9 +67,9 @@ Step-by-step instructions for each client are in the **[docs](https://designbycu
 | **[curio-mcp-extension](https://github.com/designbycurio/curio-mcp-extension)** | Gemini CLI extension plus install guides for every MCP client. Search, browse, preview, and fetch specs from the live catalog. | [Connect your agent](https://github.com/designbycurio/curio-mcp-extension#install) |
 | **[curio-design-skill](https://github.com/designbycurio/curio-design-skill)** | 105 free design systems bundled with universal rules for applying them to websites, slides, dashboards, posters, and more. | [Install the skill](https://github.com/designbycurio/curio-design-skill#install) |
 
-## Free and Pro
+## Credits
 
-The catalog has **2,233 design systems**, **105 of them free** (as of September 18, 2026), and new styles are added every week. Free covers the free collection through every channel. **Pro** unlocks the full library over MCP and share links, with a monthly quota of spec fetches. Plans are on the [pricing page](https://designbycurio.com/pricing).
+The catalog has **2,438 design systems** (as of October 2, 2026), and new styles are added every week. Browsing, previews and the 105 styles bundled in the skill are free. **1 credit unlocks a style for good** — its `DESIGN.md`, share links and MCP access, with no further charges. Credit packs are one-time and never expire; see the [pricing page](https://designbycurio.com/pricing).
 
 ## Who it's for
 
@@ -77,6 +77,6 @@ People who make things with AI and want them to look like a designer did it: lan
 
 ## Stay in touch
 
-- Browse designs and plans at [designbycurio.com](https://designbycurio.com).
+- Browse designs and credit packs at [designbycurio.com](https://designbycurio.com).
 - Report integration issues in the corresponding repository.
 - Contact [support@designbycurio.com](mailto:support@designbycurio.com).

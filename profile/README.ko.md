@@ -6,7 +6,7 @@
 
 Curio는 디자인 사조, 브랜드, 문화적 전통을——바우하우스, Stripe, 호쿠사이의 우키요에, 멤피스, 아르데코, 페르시아 카펫을 비롯한 수천 가지 스타일을——완전하고 기계가 읽을 수 있는 디자인 시스템으로 정리합니다. 각 시스템은 토큰화되어 있고 실제 예시가 함께 제공되며, AI 에이전트가 지금 만들고 있는 결과물에 바로 적용할 수 있도록 작성되어 있습니다.
 
-**[갤러리 둘러보기](https://designbycurio.com/ko/gallery)** · [문서](https://designbycurio.com/ko/docs) · [MCP](https://designbycurio.com/ko/mcp) · [요금제](https://designbycurio.com/ko/pricing)
+**[갤러리 둘러보기](https://designbycurio.com/gallery)** · [문서](https://designbycurio.com/docs) · [MCP](https://designbycurio.com/mcp) · [요금제](https://designbycurio.com/pricing)
 
 [English](https://github.com/designbycurio/.github/blob/main/profile/README.md) · [中文](https://github.com/designbycurio/.github/blob/main/profile/README.zh.md) · [日本語](https://github.com/designbycurio/.github/blob/main/profile/README.ja.md) · **한국어** · [Español](https://github.com/designbycurio/.github/blob/main/profile/README.es.md)
 
@@ -14,23 +14,23 @@ Curio는 디자인 사조, 브랜드, 문화적 전통을——바우하우스, 
 
 <table>
 <tr>
-<td align="center" width="33%"><a href="https://designbycurio.com/ko/ukrainian-pysanka-wax-egg"><img src="https://designbycurio.com/samples-thumb/ukrainian-pysanka-wax-egg.webp" alt="Ukrainian Pysanka Wax-Resist Egg 디자인 미리보기" width="100%"/><br/><strong>Ukrainian Pysanka Wax-Resist Egg</strong></a></td>
-<td align="center" width="33%"><a href="https://designbycurio.com/ko/breaking-bad-2008"><img src="https://designbycurio.com/samples-thumb/breaking-bad-2008.webp" alt="Breaking Bad (2008) 디자인 미리보기" width="100%"/><br/><strong>Breaking Bad (2008)</strong></a></td>
-<td align="center" width="33%"><a href="https://designbycurio.com/ko/oslo-opera-house-snohetta"><img src="https://designbycurio.com/samples-thumb/oslo-opera-house-snohetta.webp" alt="Oslo Opera House Snøhetta 디자인 미리보기" width="100%"/><br/><strong>Oslo Opera House Snøhetta</strong></a></td>
+<td align="center" width="33%"><a href="https://designbycurio.com/ukrainian-pysanka-wax-egg"><img src="https://designbycurio.com/samples-thumb/ukrainian-pysanka-wax-egg.webp" alt="Ukrainian Pysanka Wax-Resist Egg 디자인 미리보기" width="100%"/><br/><strong>Ukrainian Pysanka Wax-Resist Egg</strong></a></td>
+<td align="center" width="33%"><a href="https://designbycurio.com/breaking-bad-2008"><img src="https://designbycurio.com/samples-thumb/breaking-bad-2008.webp" alt="Breaking Bad (2008) 디자인 미리보기" width="100%"/><br/><strong>Breaking Bad (2008)</strong></a></td>
+<td align="center" width="33%"><a href="https://designbycurio.com/oslo-opera-house-snohetta"><img src="https://designbycurio.com/samples-thumb/oslo-opera-house-snohetta.webp" alt="Oslo Opera House Snøhetta 디자인 미리보기" width="100%"/><br/><strong>Oslo Opera House Snøhetta</strong></a></td>
 </tr>
 <tr>
-<td align="center" width="33%"><a href="https://designbycurio.com/ko/sepik-yam-mask-abelam"><img src="https://designbycurio.com/samples-thumb/sepik-yam-mask-abelam.webp" alt="Sepik Yam Mask Abelam 디자인 미리보기" width="100%"/><br/><strong>Sepik Yam Mask Abelam</strong></a></td>
-<td align="center" width="33%"><a href="https://designbycurio.com/ko/tatar-leather-mosaic-boot"><img src="https://designbycurio.com/samples-thumb/tatar-leather-mosaic-boot.webp" alt="Tatar Leather Mosaic Ichigi 디자인 미리보기" width="100%"/><br/><strong>Tatar Leather Mosaic Ichigi</strong></a></td>
-<td align="center" width="33%"><a href="https://designbycurio.com/ko/tech-noir-1984"><img src="https://designbycurio.com/samples-thumb/tech-noir-1984.webp" alt="Tech-Noir 디자인 미리보기" width="100%"/><br/><strong>Tech-Noir</strong></a></td>
+<td align="center" width="33%"><a href="https://designbycurio.com/sepik-yam-mask-abelam"><img src="https://designbycurio.com/samples-thumb/sepik-yam-mask-abelam.webp" alt="Sepik Yam Mask Abelam 디자인 미리보기" width="100%"/><br/><strong>Sepik Yam Mask Abelam</strong></a></td>
+<td align="center" width="33%"><a href="https://designbycurio.com/tatar-leather-mosaic-boot"><img src="https://designbycurio.com/samples-thumb/tatar-leather-mosaic-boot.webp" alt="Tatar Leather Mosaic Ichigi 디자인 미리보기" width="100%"/><br/><strong>Tatar Leather Mosaic Ichigi</strong></a></td>
+<td align="center" width="33%"><a href="https://designbycurio.com/tech-noir-1984"><img src="https://designbycurio.com/samples-thumb/tech-noir-1984.webp" alt="Tech-Noir 디자인 미리보기" width="100%"/><br/><strong>Tech-Noir</strong></a></td>
 </tr>
 <tr>
-<td align="center" width="33%"><a href="https://designbycurio.com/ko/lego-classic"><img src="https://designbycurio.com/samples-thumb/lego-classic.webp" alt="LEGO Classic 디자인 미리보기" width="100%"/><br/><strong>LEGO Classic</strong></a></td>
-<td align="center" width="33%"><a href="https://designbycurio.com/ko/muji-japan"><img src="https://designbycurio.com/samples-thumb/muji-japan.webp" alt="MUJI 디자인 미리보기" width="100%"/><br/><strong>MUJI</strong></a></td>
-<td align="center" width="33%"><a href="https://designbycurio.com/ko/fifties-diner-aqua-chrome"><img src="https://designbycurio.com/samples-thumb/fifties-diner-aqua-chrome.webp" alt="1950s Diner Aqua 디자인 미리보기" width="100%"/><br/><strong>1950s Diner Aqua</strong></a></td>
+<td align="center" width="33%"><a href="https://designbycurio.com/lego-classic"><img src="https://designbycurio.com/samples-thumb/lego-classic.webp" alt="LEGO Classic 디자인 미리보기" width="100%"/><br/><strong>LEGO Classic</strong></a></td>
+<td align="center" width="33%"><a href="https://designbycurio.com/muji-japan"><img src="https://designbycurio.com/samples-thumb/muji-japan.webp" alt="MUJI 디자인 미리보기" width="100%"/><br/><strong>MUJI</strong></a></td>
+<td align="center" width="33%"><a href="https://designbycurio.com/fifties-diner-aqua-chrome"><img src="https://designbycurio.com/samples-thumb/fifties-diner-aqua-chrome.webp" alt="1950s Diner Aqua 디자인 미리보기" width="100%"/><br/><strong>1950s Diner Aqua</strong></a></td>
 </tr>
 </table>
 
-미리보기를 클릭하면 전체 디자인 시스템이 열립니다. **[전체 라이브러리 보기 →](https://designbycurio.com/ko/gallery)**
+미리보기를 클릭하면 전체 디자인 시스템이 열립니다. **[전체 라이브러리 보기 →](https://designbycurio.com/gallery)**
 
 ## 디자인 시스템에 담긴 것
 
@@ -40,19 +40,19 @@ Curio는 디자인 사조, 브랜드, 문화적 전통을——바우하우스, 
 - **컴포넌트** — 버튼, 카드, 내비게이션, 폼, 데이터 표시가 이 스타일에서 어떻게 보이는지.
 - **기원과 규칙** — 스타일이 어디서 왔는지, 무엇을 고수하는지, 무엇을 절대 하지 않는지.
 - **CSS 기법** — 그레인, 글래스, 그라데이션, 그리드처럼 그 느낌을 살리는 기법.
-- **여섯 가지 실제 예시** — 기사, 대시보드, 요금제 페이지, 세 장짜리 슬라이드. 적용된 모습을 먼저 확인할 수 있습니다.
+- **장면 이미지 여섯 장** — 각 스타일 페이지에서 기사, 대시보드, 요금제 페이지, 슬라이드 세 장을 볼 수 있습니다. 크레딧을 쓰기 전에 적용된 모습을 먼저 확인하세요.
 
-배경 이야기를 먼저 알고 싶다면 [스타일 아카데미](https://designbycurio.com/ko/learn)에 각 스타일의 쉬운 안내서가 있습니다.
+배경 이야기를 먼저 알고 싶다면 [스타일 아카데미](https://designbycurio.com/learn)에 각 스타일의 쉬운 안내서가 있습니다.
 
 ## Curio를 사용하는 세 가지 방법
 
 | | 작동 방식 | 적합한 경우 |
 | --- | --- | --- |
-| **1 · 링크 복사** | 스타일을 열고 *Hand off to My AI*를 누른 뒤 링크를 대화창에 붙여 넣습니다. 설치가 필요 없고, 링크는 15분 동안 전체 사양을 담고 있습니다. | 링크를 열 수 있는 모든 AI. 가장 빠른 방법입니다. |
-| **2 · MCP 연결** | `https://mcp.designbycurio.com/mcp`를 클라이언트에 추가하고 로그인합니다. 에이전트가 전체 라이브러리를 검색하고 둘러보고 사양을 가져올 수 있습니다. | Claude, Cursor, Codex, ChatGPT, Gemini CLI, VS Code, Kimi 등 모든 MCP 클라이언트. |
+| **1 · 링크 복사** | 스타일을 열어 잠금 해제한 뒤 *Hand off to My AI*를 누르고 링크를 대화창에 붙여 넣습니다. 설치가 필요 없고, 링크는 15분 동안 전체 사양을 담고 있습니다. | 링크를 열 수 있는 모든 AI. 가장 빠른 방법입니다. |
+| **2 · MCP 연결** | `https://mcp.designbycurio.com/mcp`를 클라이언트에 추가하고 로그인합니다. 에이전트가 전체 라이브러리를 검색하고 둘러보며, 잠금 해제한 스타일의 사양을 가져옵니다. 크레딧을 쓰기 전에는 먼저 물어봅니다. | Claude, Cursor, Codex, ChatGPT, Gemini CLI, VS Code, Kimi 등 모든 MCP 클라이언트. |
 | **3 · 스킬 설치** | 스킬을 에이전트에 클론합니다. 무료 디자인 시스템 105종이 포함되어 있으며 오프라인에서도 작동합니다. | Claude Code와 스킬 폴더를 읽는 에이전트. |
 
-클라이언트별 단계 안내는 **[문서](https://designbycurio.com/ko/docs)**에 있습니다.
+클라이언트별 단계 안내는 **[문서](https://designbycurio.com/docs)**에 있습니다.
 
 > “일본식 미니멀 스타일을 찾아서 내 랜딩 페이지에 적용해 줘.”
 >
@@ -67,9 +67,9 @@ Curio는 디자인 사조, 브랜드, 문화적 전통을——바우하우스, 
 | **[curio-mcp-extension](https://github.com/designbycurio/curio-mcp-extension)** | Gemini CLI 확장과 모든 MCP 클라이언트용 설치 안내. 라이브 카탈로그에서 검색, 둘러보기, 미리보기, 사양 가져오기. | [에이전트 연결](https://github.com/designbycurio/curio-mcp-extension#install) |
 | **[curio-design-skill](https://github.com/designbycurio/curio-design-skill)** | 무료 디자인 시스템 105종과, 이를 웹사이트, 슬라이드, 대시보드, 포스터 등에 적용하기 위한 공통 규칙. | [스킬 설치](https://github.com/designbycurio/curio-design-skill#install) |
 
-## 무료와 Pro
+## 크레딧
 
-카탈로그에는 **2,233개의 디자인 시스템**이 있으며 그중 **105개가 무료**입니다(2026년 9월 18일 기준). 새 스타일은 매주 추가됩니다. 무료 계정은 모든 채널에서 무료 컬렉션을 사용할 수 있습니다. **Pro**는 MCP와 공유 링크를 통해 전체 라이브러리를 열어 주며, 월별 사양 조회 한도가 제공됩니다. 요금제는 [요금제 페이지](https://designbycurio.com/ko/pricing)에서 확인하세요.
+카탈로그에는 **2,438개의 디자인 시스템**이 있습니다(2026년 10월 2일 기준). 새 스타일은 매주 추가됩니다. 둘러보기, 미리보기, 스킬에 포함된 105개 스타일은 무료입니다. **1 크레딧으로 스타일 하나를 영구히 잠금 해제**합니다. `DESIGN.md`, 공유 링크, MCP 조회가 모두 포함되며 추가 요금은 없습니다. 크레딧 팩은 한 번 구매하면 만료되지 않습니다. 자세한 내용은 [요금 페이지](https://designbycurio.com/pricing)를 참고하세요(사이트는 영어와 중국어로 제공됩니다).
 
 ## 누구를 위한 것인가
 
@@ -77,6 +77,6 @@ AI로 무언가를 만들면서 디자이너가 만든 것처럼 보이길 원�
 
 ## 문의
 
-- 디자인과 요금제는 [designbycurio.com](https://designbycurio.com/ko/)에서 둘러보세요.
+- 디자인과 크레딧 팩은 [designbycurio.com](https://designbycurio.com/)에서 둘러보세요.
 - 연동 문제는 해당 저장소에 이슈로 남겨 주세요.
 - 이메일: [support@designbycurio.com](mailto:support@designbycurio.com)

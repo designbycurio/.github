@@ -40,7 +40,7 @@ Curio 把设计流派、品牌与文化传统——包豪斯、Stripe、北斋�
 - **组件** — 按钮、卡片、导航、表单、数据展示在这种风格下长什么样。
 - **来源与规则** — 风格从哪来、坚持什么、绝不做什么。
 - **CSS 技法** — 让它"对味"的那些手法：颗粒、玻璃、渐变、网格。
-- **六个真实案例** — 一篇文章、一个仪表盘、一个定价页和三页幻灯，先看效果再决定。
+- **六张场景图** — 在每套风格的页面上：一篇文章、一个仪表盘、一个定价页和三页幻灯，花积分之前就能先看效果。
 
 想先了解风格背后的故事，[风格学院](https://designbycurio.com/zh/learn)给每种风格都写了一篇通俗指南。
 
@@ -48,8 +48,8 @@ Curio 把设计流派、品牌与文化传统——包豪斯、Stripe、北斋�
 
 | | 怎么用 | 适合 |
 | --- | --- | --- |
-| **1 · 复制链接** | 打开任一风格，点「转发给我的 AI」，把链接贴进对话。零安装，链接在 15 分钟内携带完整规格。 | 任何能打开链接的 AI。最快的一条路。 |
-| **2 · 接入 MCP** | 把 `https://mcp.designbycurio.com/mcp` 加进你的客户端并登录。agent 就能在整座库里搜索、浏览、取规格。 | Claude、Cursor、Codex、ChatGPT、Gemini CLI、VS Code、Kimi 及任何 MCP 客户端。 |
+| **1 · 复制链接** | 打开任一风格，解锁后点「转发给我的 AI」，把链接贴进对话。零安装，链接在 15 分钟内携带完整规格。 | 任何能打开链接的 AI。最快的一条路。 |
+| **2 · 接入 MCP** | 把 `https://mcp.designbycurio.com/mcp` 加进你的客户端并登录。agent 就能在整座库里搜索、浏览，并取用你已解锁风格的规格；要花积分之前会先问你。 | Claude、Cursor、Codex、ChatGPT、Gemini CLI、VS Code、Kimi 及任何 MCP 客户端。 |
 | **3 · 安装 Skill** | 把 skill clone 进你的 agent。内置 105 套免费设计系统，离线可用。 | Claude Code 以及会读 skill 目录的 agent。 |
 
 每个客户端的逐步接入说明见 **[文档](https://designbycurio.com/zh/docs)**。
@@ -67,9 +67,9 @@ Curio 把设计流派、品牌与文化传统——包豪斯、Stripe、北斋�
 | **[curio-mcp-extension](https://github.com/designbycurio/curio-mcp-extension)** | Gemini CLI 扩展，外加各 MCP 客户端的接入指南。可在在线目录里搜索、浏览、预览与获取规格。 | [接入你的 agent](https://github.com/designbycurio/curio-mcp-extension#install) |
 | **[curio-design-skill](https://github.com/designbycurio/curio-design-skill)** | 内置 105 套免费设计系统，附一套通用规则，教 agent 把它们用到网站、幻灯、仪表盘、海报等各种产物上。 | [安装 skill](https://github.com/designbycurio/curio-design-skill#install) |
 
-## 免费与 Pro
+## 积分
 
-目录里共有 **2,233 套设计系统**，其中 **105 套免费**（截至 2026 年 9 月 18 日），每周都在上新。免费账户在所有渠道都能使用免费合集；**Pro** 通过 MCP 与分享链接解锁整座库，按月配额获取规格。方案见[定价页](https://designbycurio.com/zh/pricing)。
+目录里共有 **2,438 套设计系统**（截至 2026 年 10 月 2 日），每周都在上新。浏览、看示意图，以及 skill 里内置的 105 套都免费；**1 积分永久解锁一套风格**——`DESIGN.md`、分享链接、MCP 取用都包含在内，之后不再扣。积分包一次性购买、永不过期，见[定价页](https://designbycurio.com/zh/pricing)。
 
 ## 给谁用
 
@@ -77,6 +77,6 @@ Curio 把设计流派、品牌与文化传统——包豪斯、Stripe、北斋�
 
 ## 联系我们
 
-- 浏览设计与方案：[designbycurio.com](https://designbycurio.com/zh/)
+- 浏览设计与积分包：[designbycurio.com](https://designbycurio.com/zh/)
 - 接入问题请到对应仓库提 issue。
 - 邮件：[support@designbycurio.com](mailto:support@designbycurio.com)
